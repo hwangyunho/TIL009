@@ -3,6 +3,8 @@
 
 
 ## 넘파이
+*  수식 라이브러리, 수치연산, 배열의 객체
+-- 동작 속도가 빠르다. / 연속적인 메모리 / 한가지 타입만 처리가능
 1. np.array 로 객체생성
 2. np.arange 로 객체생성
 3.  ndarray(shape[, dtype, buffer, offset, ...]) / shape
