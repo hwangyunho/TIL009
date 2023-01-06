@@ -22,4 +22,8 @@
 6. 배열의 형상 다루기 : reshape(), flatten()(편평화), transpose()(전치)
 7. numpy의 속성 (Attribute): 멤버변수, 메서드 dtype, shape, ndim, flat, T, size, nbytes
 
+***
+
 ## 판다스
+
+1. 시리즈 및 데이터 프레임
