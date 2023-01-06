@@ -20,5 +20,6 @@
 4. 배열과 슬라이싱 _reshape()
 5. 불린 인덱싱 : 조건석을 이용한 인덱싱, 조건 검색 필터를 사용한 추출 값 (중요!!)
 6. 배열의 형상 다루기 : reshape(), flatten()(편평화), transpose()(전치)
+7. numpy의 속성 (Attribute): 멤버변수, 메서드 dtype, shape, ndim, flat, T, size, nbytes
 
 ## 판다스
